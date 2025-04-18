@@ -1,5 +1,11 @@
 # Nuclear Tech Mod
 
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://www.minecraft.net)
+[![Forge Version](https://img.shields.io/badge/Forge-47.4.0-orange.svg)](https://files.minecraftforge.net)
+[![Java Version](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![Mod Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/nuclearbombmods/NuclearTechMod/releases)
+
 A Minecraft mod that adds nuclear technology and radiation mechanics to the game.
 
 ## Features
