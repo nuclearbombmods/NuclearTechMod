@@ -1,0 +1,26 @@
+{
+    "name": "Radiation Detection",
+    "icon": "nucleartechmod:radiation_detector",
+    "category": "nucleartechmod:radiation",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Radiation is a dangerous force that must be carefully monitored. The Radiation Detector is your primary tool for measuring radiation levels in your environment. Right-click with the detector to measure current radiation levels."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "nucleartechmod:radiation_detector",
+            "text": "The Radiation Detector is crafted using lead ingots for shielding, redstone for detection, and glass for the display."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Understanding Readings",
+            "text": "Radiation levels are measured in mSv/h (millisieverts per hour):$(br2)• 0-1 mSv/h: Safe$(br)• 1-5 mSv/h: Caution$(br)• 5+ mSv/h: Dangerous$(br2)Extended exposure to radiation will cause health effects and can be fatal."
+        },
+        {
+            "type": "patchouli:text",
+            "title": "Protection",
+            "text": "Lead blocks provide excellent radiation shielding. Each lead block reduces radiation by 50%. Place lead blocks between yourself and radiation sources for protection.$(br2)Always carry a radiation detector and lead blocks when working with nuclear materials!"
+        }
+    ]
+} 

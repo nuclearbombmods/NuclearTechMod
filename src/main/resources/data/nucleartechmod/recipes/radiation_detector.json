@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LRL",
+        "RGR",
+        "LRL"
+    ],
+    "key": {
+        "L": {
+            "item": "nucleartechmod:lead_ingot"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+        "G": {
+            "item": "minecraft:glass"
+        }
+    },
+    "result": {
+        "item": "nucleartechmod:radiation_detector",
+        "count": 1
+    }
+} 

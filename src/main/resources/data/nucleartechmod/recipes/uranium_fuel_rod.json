@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " L ",
+        "LUL",
+        " L "
+    ],
+    "key": {
+        "L": {
+            "item": "nucleartechmod:lead_ingot"
+        },
+        "U": {
+            "item": "nucleartechmod:uranium_ingot"
+        }
+    },
+    "result": {
+        "item": "nucleartechmod:uranium_fuel_rod",
+        "count": 1
+    }
+} 

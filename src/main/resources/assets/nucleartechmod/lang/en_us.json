@@ -1,0 +1,13 @@
+{
+    "item.nucleartechmod.raw_uranium": "Raw Uranium",
+    "item.nucleartechmod.uranium_ingot": "Uranium Ingot",
+    "item.nucleartechmod.lead_ingot": "Lead Ingot",
+    "item.nucleartechmod.uranium_fuel_rod": "Uranium Fuel Rod",
+    "item.nucleartechmod.depleted_fuel_rod": "Depleted Fuel Rod",
+    "item.nucleartechmod.radiation_detector": "Radiation Detector",
+    "block.nucleartechmod.uranium_ore": "Uranium Ore",
+    "block.nucleartechmod.uranium_block": "Uranium Block",
+    "block.nucleartechmod.lead_block": "Lead Block",
+    "block.nucleartechmod.reactor_casing": "Reactor Casing",
+    "creativetab.nuclear_tab": "Nuclear Tech"
+} 

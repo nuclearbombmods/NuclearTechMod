@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "nucleartechmod:block/basic_block"
+    }
+} 

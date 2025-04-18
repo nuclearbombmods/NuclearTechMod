@@ -1,0 +1,47 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Eclipse
+*.launch
+.settings/
+.metadata/
+.classpath
+.project
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+.code-workspace
+
+# Minecraft/Forge
+run/
+logs/
+crash-reports/
+saves/
+screenshots/
+options.txt
+usercache.json
+usernamecache.json
+
+# Compiled files
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+.cache/
+
+# Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
